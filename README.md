@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @CaffeineSnorter
-- 👀 I’m interested in learning through project development (MCU programming, automation and control)
-- 🌱 I’m currently learning how not to die
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Caffeine.Snorter@gmail.com
-
-<!---
-CaffeineSnorter/CaffeineSnorter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Juan M. Barbosa
+- 👀 I’m interested in learning how to create fun stuff through coding
+- 🌱 I’m currently learning how to code using python and arduino programming using c++
+- 📫 If you'd like to reach me over anny inquiries you can do so in Caffeine.Snorter@gmail.com
